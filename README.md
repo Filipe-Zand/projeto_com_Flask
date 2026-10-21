@@ -15,5 +15,5 @@ uv venv -python 3.15
 .\.venv\Scripts\Activate.ps1
 6. Verificar o Python
 python --version
-Conclusão
+# Conclusão
 Com esses comandos, instalamos o uv, configuramos o Python 3.15, criamos um ambiente virtual e instalamos as bibliotecas necessárias para desenvolver projetos Python no VSCode.
